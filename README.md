@@ -120,11 +120,10 @@ function render(){
           }
 
         //Action on change in slider input
-        d3.select("#depthSlider").on("input", function () {
+          d3.select("#tileType").on("change", function () {
 
-            //some code to uncollapse or change the depth filter value
-              updateTree(); //redraw tree
-        });
+            updateTree();
+      });
 
     }
 ```
