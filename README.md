@@ -32,8 +32,7 @@ Normally the div where the tree is rendered or displayed is in the center to the
 
 ### 3. Parameters Control
 
-Displays all html elements to control the tree related parameters in display level such as dendogram or regular phylogram; Also the input to collapse the depth of the tree and other styling attributes
-depending on the display layout chosen
+Displays all html elements to control the tree related parameters in display level such as tile for the treemap (squarify, slice&dice, binary, etc., ) and style attributes
 
 
 ![alt text](assets/PHY2.png "phyloTreemap User Interface")
